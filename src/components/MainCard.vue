@@ -39,7 +39,7 @@
                     <br><br>
                     My specialization is in <span class="highlight">Data Science, Security & Protection</span>, equipping me with the skills and knowledge to navigate complex digital environments.
                     <br><br>
-                    I am also gaining invaluable experience under the mentorship of <span class="mentor">Collin Van der Vorst</span>, an accomplished Fullstack Developer.
+                    I am also gaining invaluable experience under the mentorship of <span class="highlight">Collin Van der Vorst</span>, an accomplished Fullstack Developer.
                 </p>
         </div>
 
